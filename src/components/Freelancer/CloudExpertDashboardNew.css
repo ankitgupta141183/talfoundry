@@ -1,0 +1,41 @@
+.cloud-expert-left-sidebar{
+    height: 100%;
+    /*margin-top: 100px;*/
+    padding-bottom: 61px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 1029;
+    width: 230px;
+    left: 0;
+    /* border-right: 1px solid #e3e3e3; */
+}
+
+.cloud-expert-right-content-area{
+    position: relative;
+    left: 0;
+    margin-left: 230px;
+    min-height: 100%;
+}
+.cloud-expert-after-login-left-menu .fa-bell-o{
+    font-size: 22px !important;
+}
+.cloud-expert-right-content-area .both-column-container .right-sidebar-column{
+    display: flex;
+    /*background: #1d3557;*/
+    background: #fff;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.cloud-expert-dashboard-notification-message-box{
+    background: #F3F9FB;
+    padding: 10px;
+}
+.cloud-expert-welcome-title{
+    /* color: #000000; */
+    margin-bottom: 26px;
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: 600;
+}

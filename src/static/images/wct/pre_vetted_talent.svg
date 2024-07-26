@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="77" viewBox="0 0 88 77">
+  <g id="pre_vetted_talent" transform="translate(-1267.5 -1507)">
+    <g id="Post-A-Job" transform="translate(1261.5 1491.757)">
+      <path id="Path_425" data-name="Path 425" d="M90,55.24a40,40,0,1,0-76.44,16.5H86.44A39.85,39.85,0,0,0,90,55.24Z" fill="#dbf1fa"/>
+      <path id="Path_467" data-name="Path 467" d="M0,0H78" transform="translate(11 71.74)" fill="none" stroke="#0da4de" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="2.5" transform="translate(6.5 71.74)" fill="none" stroke="#0da4de" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="2.5" transform="translate(91 71.74)" fill="none" stroke="#0da4de" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="_1-candidate" data-name="1-candidate" transform="translate(352 1405)">
+      <path id="Path_532" data-name="Path 532" d="M990,155.167l-8.657-.583L977.9,146l-3.444,8.584-4.453.3V143c0-2.01-5.5-5-10-5s-10,2.99-10,5v11.884l-4.453-.3L942.1,146l-3.445,8.584-8.658.583,6.528,6.249L934.623,170l7.48-4.361L949.582,170,948,162.878l5.09,4.75L950.729,178,960,172.729,969.271,178l-2.361-10.372,5.09-4.75L970.418,170l7.479-4.361L985.376,170l-1.9-8.584Z" fill="#fff"/>
+      <path id="Path_533" data-name="Path 533" d="M960,149l4.27,10.373,10.73.7-8.091,7.551L969.271,178,960,172.73,950.729,178l2.362-10.372L945,160.077l10.73-.7Z" fill="#a8d2f0" stroke="#2b5183" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_534" data-name="Path 534" d="M949,154.816l-3.453-.232L942.1,146l-3.446,8.584-8.657.584,6.528,6.248L934.623,170l7.48-4.361,4.184,2.439" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_535" data-name="Path 535" d="M971,154.816l3.453-.232L977.9,146l3.446,8.584,8.657.584-6.527,6.248,1.9,8.584-7.48-4.361-4.184,2.439" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_536" data-name="Path 536" d="M970,150v-7c0-2.01-5.507-4.89-10-4.89s-10,2.88-10,4.89v7" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_537" data-name="Path 537" d="M960,122c-2.585,0-5,1.935-5,4.321v3.358c0,2.386,2.415,4.321,5,4.321s5-1.935,5-4.321v-3.358C965,123.935,962.586,122,960,122Z" fill="#fff" stroke="#2b5183" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

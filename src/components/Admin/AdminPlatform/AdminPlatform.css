@@ -1,0 +1,38 @@
+/* .Platform-container{
+    padding: 17px !important;
+} */
+#admin-platform-plus-btn{
+    float: none !important;
+    /* position: absolute; */
+    /* right: 6px;
+    top: 9px; */
+}
+
+#admin-platform-plus-btn button{
+    padding: 11px 17px;
+    margin-right: 10px;
+    border-radius: 5px;
+}
+
+#admin-platform-plus-btn button:hover{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.entries_row{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    margin: 13px 0;
+}
+
+.entries_row select {
+    width: auto;
+    margin: 0 6px;
+}
+
+.platform-search{
+    padding: 5px 6px;
+    border-radius: 4px;
+    border: 1px solid #d7d7d7;
+}

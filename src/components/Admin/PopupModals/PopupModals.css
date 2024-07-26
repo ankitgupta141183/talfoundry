@@ -1,0 +1,25 @@
+.close-modal-custom-btn{
+    position: absolute;
+    right: 4px;
+    top: 5px;
+    height: 26px;
+    width: 26px;
+    border-radius: 50%;
+    border: none;
+    color: #fff;
+    background: var(--blue-color);
+}
+.modal-header-shape::before{
+    position: absolute;
+    content: '';
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    top: -20px;
+    left: -20px;
+    background-color: var(--blue-color);
+    z-index: 99;
+}
+/* .modal-header-shape .maxh-auto{
+    height: 100vh !important;
+} */

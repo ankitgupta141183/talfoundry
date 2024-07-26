@@ -1,0 +1,7 @@
+.bs-wizard-step>.bs-wizard-dot.complete {
+	background: #0DA4DE;
+	border-color: #0da4de !important;
+}
+.bs-wizard-step>.bs-wizard-dot.complete>.fa.fa-check  {
+ color: #fff;
+}

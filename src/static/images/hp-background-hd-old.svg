@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2879" height="549" viewBox="0 0 2879 549">
+  <defs>
+    <polyline id="2880px-a" points=".012 0 2879.013 0 2879.013 552.568 -.006 552.568"/>
+    <polyline id="2880px-c" points=".018 .684 2879.019 .684 2879.019 553.252 0 553.252"/>
+    <linearGradient id="2880px-e" x1="100%" x2="16.28%" y1="48.497%" y2="50.962%">
+      <stop offset="0%" stop-color="#297FFF"/>
+      <stop offset="100%" stop-color="#005EEC"/>
+    </linearGradient>
+    <path id="2880px-f" d="M493.62966,0.68431557 L1939.49049,0.68431557 L3187.51528,0.68431557 L3187.51528,241.56563 L661.627072,548.129886 C634.657109,551.4032 607.51614,543.562344 586.446798,526.410775 L491.979748,449.509552 L0.006,0.68431557 L493.62966,0.68431557 Z"/>
+    <linearGradient id="2880px-g" x1="50%" x2="50%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#0097F7"/>
+      <stop offset="100%" stop-color="#005EEC"/>
+    </linearGradient>
+    <linearGradient id="2880px-i" x1="61.302%" x2="38.698%" y1="70.064%" y2="29.936%">
+      <stop offset="0%" stop-color="#0097F7"/>
+      <stop offset="100%" stop-color="#005EEC"/>
+    </linearGradient>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <mask id="2880px-b" fill="#fff">
+      <use xlink:href="#2880px-a"/>
+    </mask>
+    <g mask="url(#2880px-b)">
+      <g transform="translate(-1)">
+        <mask id="2880px-d" fill="#fff">
+          <use xlink:href="#2880px-c"/>
+        </mask>
+        <g mask="url(#2880px-d)">
+          <path fill="url(#2880px-e)" fill-rule="nonzero" d="M493.62366,0 L1939.48449,0 L3187.50928,0 L3187.50928,240.881314 L661.621072,547.44557 C634.651109,550.718884 607.51014,542.878028 586.440798,525.726459 L491.973748,448.825236 L0,0 L493.62366,0 Z" transform="translate(.006 .684)"/>
+        </g>
+        <mask id="2880px-h" fill="#fff">
+          <use xlink:href="#2880px-f"/>
+        </mask>
+        <polygon fill="url(#2880px-g)" fill-rule="nonzero" points="1138.693 .684 491.98 449.51 .018 .684" mask="url(#2880px-h)" opacity=".244"/>
+        <g mask="url(#2880px-h)" opacity=".216">
+          <path fill="url(#2880px-i)" fill-rule="nonzero" d="M1330.92737,220.621654 L246.594434,979.233805 C239.550379,984.161909 230.004691,983.421049 223.80537,977.465101 L6.293086,768.491905 C-0.875658,761.604591 -1.103802,750.209905 5.783511,743.041162 C6.619306,742.171215 7.54044,741.387495 8.53302,740.701824 L1075.76382,3.461965 C1082.30229,-1.054795 1091.02903,-0.749311 1097.23567,4.2136 L1331.85009,191.814503 C1339.61427,198.022845 1340.87552,209.349811 1334.66718,217.113989 C1333.59435,218.45568 1332.33497,219.636882 1330.92737,220.621654 Z" transform="translate(469.006 -281.316)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

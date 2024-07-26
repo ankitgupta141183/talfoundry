@@ -1,0 +1,30 @@
+.tabbutton{
+    display: flex;
+    justify-content: right;
+}
+.tabbutton li{
+    /* padding: 10px 15px; */
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.tabbutton li a:hover{
+    background-color: transparent;
+}
+.tabbutton li.active{
+    background-color: #000000;
+}
+.tabbutton li.active a{
+    color: #ffffff;
+}
+.tabbutton li a{
+    color: #000000;
+    font-size: 14px;
+    font-weight: 600;
+    min-width: 113px;
+    padding: 10px 15px;
+    text-align: center;
+}
+.admin-report-graph-div{
+    margin: 10px 5px;
+}

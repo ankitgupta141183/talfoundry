@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="48" viewBox="0 0 200 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.441" y1="0.142" x2="1.05" y2="1.708" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#194db3"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.527" y1="1.886" x2="1.038" y2="-0.43" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0097cc"/>
+      <stop offset="1" stop-color="#83daff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.138" y1="0.562" x2="2.887" y2="-0.273" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-logo">
+      <rect width="200" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="Group_1900" data-name="Group 1900">
+      <g id="Layer_1" transform="translate(-83.722 -78.787)">
+        <g id="Group_1899" data-name="Group 1899" transform="translate(83.722 79.787)">
+          <path id="Path_661" data-name="Path 661" d="M90.008,79.788h15.748a6.233,6.233,0,0,1,6.223,6.223v14.922l-5.335-8.7H90.008a6.288,6.288,0,0,1-6.286-6.223h0a6.288,6.288,0,0,1,6.286-6.222Z" transform="translate(-83.722 -79.788)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+          <g id="Group_1898" data-name="Group 1898" transform="translate(15.749)">
+            <path id="Path_662" data-name="Path 662" d="M148.041,92.233h9.523a6.223,6.223,0,1,0,0-12.446H141.817a6.233,6.233,0,0,1,6.223,6.223v6.223Z" transform="translate(-135.531 -79.787)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+            <path id="Path_663" data-name="Path 663" d="M137.754,121.3l-5.335-8.7h-7.175v28.32a6.255,6.255,0,0,0,12.509,0V121.3Z" transform="translate(-125.244 -100.154)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+          </g>
+        </g>
+      </g>
+      <text id="Talfoundry" transform="translate(44 31)" fill="#30567d" font-size="22" font-family="SinkinSans-900XBlack, 'Sinkin Sans 900 X'" font-weight="900"><tspan x="0" y="0">Talfoundry</tspan></text>
+    </g>
+  </g>
+</svg>

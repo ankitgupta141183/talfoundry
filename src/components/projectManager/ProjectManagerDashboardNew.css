@@ -1,0 +1,48 @@
+/*.tf-project-manager-dashboard-header-container{
+    margin-top: 66px;
+}
+*/
+
+.main-content{
+    /* content: "";
+    background: #219ebc;
+    height: 220px;
+    display: block;
+    margin-bottom: -220px; */
+}
+.fp_left_resp i{
+        font-size: 25px !important;
+        /*color: #fff !important;*/
+    }
+.pro-left-sidebar{
+    height: 100%;
+    /*margin-top: 100px;*/
+    padding-bottom: 61px;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    z-index: 1029;
+    /*width: 230px;*/
+    left: 0;
+    /* border-right: 1px solid #e3e3e3; */
+    background: #F3F9FB;
+}
+
+.pro-right-content-area{
+    position: relative;
+    left: 0;
+    margin-left: 50px;
+    min-height: 100%;
+}
+.manager-dashboard-notification-message-box{
+    /* background: #F3F9FB; */
+    padding: 10px;
+    color: #055160;
+    background-color: #cff4fc;
+}
+.manager-welcome-title{
+    margin-bottom: 26px;
+    margin-top: 0px;
+    font-size: 16px;
+    font-weight: 600;
+}

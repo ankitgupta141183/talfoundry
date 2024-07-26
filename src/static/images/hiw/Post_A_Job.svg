@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="88" height="71.006" viewBox="0 0 88 71.006">
+  <g id="Post_A_Job" transform="translate(-1267.5 -1630)">
+    <g id="Post-A-Job" transform="translate(1261.5 1614.757)">
+      <path id="Path_425" data-name="Path 425" d="M90,55.24a40,40,0,1,0-76.44,16.5H86.44A39.85,39.85,0,0,0,90,55.24Z" fill="#F3F9FB"/>
+      <path id="Path_467" data-name="Path 467" d="M0,0H78" transform="translate(11 71.74)" fill="none" stroke="#0da4de" stroke-linecap="round" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="2.5" transform="translate(6.5 71.74)" fill="none" stroke="#0da4de" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="2.5" transform="translate(91 71.74)" fill="none" stroke="#0da4de" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <g id="post-a-job-2" data-name="post-a-job" transform="translate(348 1521)">
+      <path id="Path_562" data-name="Path 562" d="M938,157v19a3,3,0,0,0,3,3h46a3,3,0,0,0,3-3V157Z" fill="#fff"/>
+      <path id="Path_563" data-name="Path 563" d="M988,141H940a3,3,0,0,0-3,3v10.545c0,3.911,6.9,6.455,11,6.455h2v-2h6v2h16v-2h6v2h2c4.1,0,11-2.544,11-6.455V144A3,3,0,0,0,988,141Z" fill="#a8d2f0"/>
+      <rect id="Rectangle_257" data-name="Rectangle 257" width="6" height="7" transform="translate(950 159)" fill="#fff" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_564" data-name="Path 564" d="M990,157v19.006a3,3,0,0,1-2.994,3L964,179l-23.006.006a3,3,0,0,1-2.994-3V157" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <rect id="Rectangle_258" data-name="Rectangle 258" width="6" height="7" transform="translate(972 159)" fill="#fff" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_565" data-name="Path 565" d="M973,141v-4a2,2,0,0,0-2-2H957a2,2,0,0,0-2,2v4" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Line_37" data-name="Line 37" x2="16" transform="translate(956 161)" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Path_566" data-name="Path 566" d="M978,161h2c4.1,0,11-2.544,11-6.454V144a3,3,0,0,0-3-3H940a3,3,0,0,0-3,3v10.546c0,3.91,6.9,6.454,11,6.454h2" fill="none" stroke="#2b5183" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>

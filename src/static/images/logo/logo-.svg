@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="253" height="48" viewBox="0 0 253 48">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.441" y1="0.142" x2="1.05" y2="1.708" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#194db3"/>
+      <stop offset="1" stop-color="#231f20"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="-0.527" y1="1.886" x2="1.038" y2="-0.43" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0097cc"/>
+      <stop offset="1" stop-color="#83daff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.138" y1="0.562" x2="2.887" y2="-0.273" xlink:href="#linear-gradient-2"/>
+    <clipPath id="clip-logo">
+      <rect width="253" height="48"/>
+    </clipPath>
+  </defs>
+  <g id="logo" clip-path="url(#clip-logo)">
+    <g id="Layer_1" transform="translate(-83.722 -79.787)">
+      <g id="Group_1899" data-name="Group 1899" transform="translate(83.722 79.787)">
+        <path id="Path_661" data-name="Path 661" d="M90.179,79.788h16.176a6.4,6.4,0,0,1,6.392,6.392v15.328l-5.48-8.936H90.179a6.459,6.459,0,0,1-6.457-6.392h0a6.458,6.458,0,0,1,6.457-6.391Z" transform="translate(-83.722 -79.788)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+        <g id="Group_1898" data-name="Group 1898" transform="translate(16.176)">
+          <path id="Path_662" data-name="Path 662" d="M148.21,92.571h9.782a6.392,6.392,0,1,0,0-12.784H141.817a6.4,6.4,0,0,1,6.392,6.392v6.392Z" transform="translate(-135.36 -79.787)" fill-rule="evenodd" fill="url(#linear-gradient-2)"/>
+          <path id="Path_663" data-name="Path 663" d="M138.093,121.536l-5.48-8.936h-7.369v29.089a6.425,6.425,0,0,0,12.849,0V121.536Z" transform="translate(-125.244 -99.816)" fill-rule="evenodd" fill="url(#linear-gradient-3)"/>
+        </g>
+      </g>
+    </g>
+    <text id="Talfoundry" transform="translate(50 38)" fill="#30567d" font-size="36" font-family="OpenSans-ExtraBold, Open Sans" font-weight="800"><tspan x="0" y="0">Talfoundry</tspan></text>
+  </g>
+</svg>
